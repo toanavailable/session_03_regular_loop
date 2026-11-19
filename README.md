@@ -4,3 +4,4 @@ Tổng hợp bài tập và mindmap của Session 03 (Python – vòng lặp). M
 
 ## Danh sách bài
 
+- [Mindmap Python Session 3 - Vòng lặp cơ bản](./mind-map-python-session-3/)
